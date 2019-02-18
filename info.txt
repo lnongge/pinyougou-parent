@@ -1,0 +1,11 @@
+#service
+pinyougou-sellergoods-service 9001 20881
+pinyougou-content-servcie 9002 20882
+pinyougou-search-service 9004 20884
+pinyougou-page-service 9005 20885
+#web
+pinyougou-manager-web 9101
+pinyougou-shop-web 9102
+pinyougou-portal-web 9103
+pinyougou-search-web 9104
+pinyougou-page-web 9105
